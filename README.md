@@ -15,4 +15,4 @@ To use this bot:
 4. Insert yor proxy to proxy_fot_bot.txt file.
 5. Start bot after raffle starts.
 
-![](photo_2021-08-09 13.37.57.jpeg)
+![](photo_2021-08-09 14.31.16.jpeg)
