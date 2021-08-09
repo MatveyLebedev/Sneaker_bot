@@ -1,0 +1,7 @@
+123456767887 - card number
+03 - month
+21 - year
+074 - cvs
+https://www.adidas.ru/yeezy - target URL
+42.5 43.5 44 - target size
+6909-Mar-31-2021 - key
